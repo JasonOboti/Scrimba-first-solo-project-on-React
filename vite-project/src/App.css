@@ -1,0 +1,76 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card-container {
+  width: 317px;
+  overflow: hidden;
+  background: #1A1B21;
+  border-radius: 10px 10px 10px 10px;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+.card-details img {
+  overflow: hidden;
+  height: 317px;
+}
+
+
+.name {
+  line-height: 2px;
+}
+.front {
+  color: #F3BF99;
+  font-weight: 400;
+}
+
+.button1 {
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  margin: 15px;
+  width: 115px;
+  height: 34px;
+  background: #FFFFFF;
+  border-radius: 6px;
+  color: #23252C;
+  font-size: 14px;
+}
+.button2 {
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  margin: 15px;
+  width: 115px;
+  height: 34px;
+  background: #5093E2;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.content {
+  text-align: start;
+  padding: 15px;
+  font-size: small;
+  line-height: 17px;
+}
+
+.footer {
+  background: #161619;
+  height: 64px;
+  font-size: 40px;
+}
+.footer i{
+  height: 64px;
+  font-size: 30px;
+  padding: 15px;
+  color: #918E9B;
+}
+
